@@ -23,16 +23,19 @@ header img {
     font-family: broadway;
     font-size: 15px;
     font-weight: 200;
-    width: 70%;
+    width: 80%;
     top: 20px;
     right: 0;
     height: 10px;
 }
 #navi {
-  position: inherit;  
+  position: absolute; 
     padding-bottom: 1%;
     font-family: broadway;
     font-size: 15px;
     font-weight: 200;
-    width: 70%;
+    width: 80%;
+    top: 40px;
+    right: 0;
+    height: 10px;
 }
