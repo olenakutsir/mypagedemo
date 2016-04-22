@@ -54,7 +54,9 @@ header img {
 #pavement {
   position: absolute;
   z-index: -1
-  opacity: 0,1;
+}
+#pavement img {
+   opacity: 0.2;
 }
 #hallo {
   position: absolute;
