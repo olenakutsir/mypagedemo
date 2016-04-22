@@ -11,11 +11,12 @@ header{
   letter-spacing: 5px;
 }
 header img {
-  position: inherit;
+  position: absolute;
   width: 150px;
-  left: 20%;
+  left: 10%;
   top: 10px;
   z-index: 0
+  
 }
 #olenakutsir {
     position: absolute; 
