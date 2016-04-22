@@ -11,13 +11,13 @@ header{
   letter-spacing: 5px;
 }
 header img {
-  position: absolute;
+  position: inherit;
   width: 150px;
-  right: 20%;
+  left: 20%;
   top: 10px;
   z-index: 0
 }
 header h1 {
-   padding-left: 300px;
+   padding-left: 200px;
   
 }
