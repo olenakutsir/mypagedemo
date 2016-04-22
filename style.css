@@ -18,12 +18,10 @@ header img {
   z-index: 0
 }
 header h1 {
-   border-bottom: 4px solid black;
-    padding-bottom: 2%;
-    float: left;
+   padding-bottom: 2%;
     font-family: broadway;
     font-size: 30px;
-    font-weight: 200;
-    width: 74%;
+    font-weight: 300;
+    width: 50%;
   
 }
