@@ -56,4 +56,11 @@ header img {
 }
 #hallo {
   position: absolute;
+  font-size: 20px;
+    font-weight: 200;
+    width: 75%;
+    top: 50%;
+    right: 50%;
+    color: #e9ece5;
+    
 }
