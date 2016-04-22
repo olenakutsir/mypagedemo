@@ -1,7 +1,7 @@
 * {
   width: 1000px;
   margin: 0 auto;
-  font-family: LoraMerriweather;
+  font-family: Vollkorn;
 }
 body {background-color: #b3c2bf }
 #container {
@@ -12,7 +12,6 @@ header{
   height: 200px;
   background-color: #252839;
   padding-top: 0px;
-  font-family: broadway;
   text-align: none;
   letter-spacing: 5px;
   color: #e9ece5;
@@ -28,7 +27,6 @@ header img {
 #olenakutsir {
     position: absolute; 
     padding-bottom: 1%;
-    font-family: LoraMerriweather;
     font-size: 15px;
     font-weight: 200;
     width: 75%;
@@ -40,7 +38,6 @@ header img {
 #navi {
   position: absolute; 
     padding-bottom: 1%;
-    font-family: LoraMerriweather;;
     font-size: 15px;
     font-weight: 200;
     width: 75%;
