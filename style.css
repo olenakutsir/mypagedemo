@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header{
+  height: 200px;
+  background-color: #3b3a36;
+  padding-top: 0px;
+  font-family: broadway;
+  text-align: none;
+  letter-spacing: 5px;
+}
