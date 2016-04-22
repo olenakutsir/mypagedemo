@@ -49,7 +49,10 @@ header img {
 #welcome {
   position: relative;
 }
-pavement {
+#pavement {
   position: absolute;
   z-index: -1
+}
+#hallo {
+  position: absolute;
 }
