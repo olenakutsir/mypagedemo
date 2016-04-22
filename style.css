@@ -13,8 +13,8 @@ header{
 header img {
   position: absolute;
   width: 150px;
-  left: 10%;
-  top: 10px;
+  padding-left: 5%;
+  padding-top: 20px;
   z-index: 0
   
 }
