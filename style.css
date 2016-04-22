@@ -3,7 +3,8 @@
   margin: 0 auto;
   font-family: georgia;
 }
-body {background-color: #b3c2bf }
+body {background-color: #b3c2bf 
+}
 #container {
   position: relative;
   width: 1000px;
@@ -22,7 +23,6 @@ header img {
   padding-left: 5%;
   padding-top: 20px;
   z-index: 0
-  
 }
 #olenakutsir {
     position: absolute; 
@@ -45,4 +45,11 @@ header img {
     right: 0;
     height: 10px;
     color: #e9ece5;
+}
+#welcome {
+  position: relative;
+}
+pavement {
+  position: absolute;
+  z-index: -1
 }
