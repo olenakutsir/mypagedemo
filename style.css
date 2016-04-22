@@ -1,6 +1,6 @@
 * {
-  margin: 0;
-  padding: 0;
+  width: 1000px;
+  margin: 0 auto;
 }
 header{
   height: 200px;
@@ -9,4 +9,8 @@ header{
   font-family: broadway;
   text-align: none;
   letter-spacing: 5px;
+}
+header h1 {
+   padding-left: 200px;
+  
 }
