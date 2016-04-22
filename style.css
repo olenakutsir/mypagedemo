@@ -1,6 +1,7 @@
 * {
   width: 1000px;
   margin: 0 auto;
+  font-family: LoraMerriweather;
 }
 body {background-color: #b3c2bf }
 #container {
@@ -27,7 +28,7 @@ header img {
 #olenakutsir {
     position: absolute; 
     padding-bottom: 1%;
-    font-family: Lora;
+    font-family: LoraMerriweather;
     font-size: 15px;
     font-weight: 200;
     width: 75%;
@@ -39,7 +40,7 @@ header img {
 #navi {
   position: absolute; 
     padding-bottom: 1%;
-    font-family: Lora;
+    font-family: LoraMerriweather;;
     font-size: 15px;
     font-weight: 200;
     width: 75%;
