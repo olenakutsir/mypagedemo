@@ -18,12 +18,15 @@ header img {
   z-index: 0
 }
 #olenakutsir {
-    position: inherit;  
+    position: absolute; 
     padding-bottom: 1%;
     font-family: broadway;
     font-size: 15px;
     font-weight: 200;
     width: 70%;
+    top: 20px;
+    right: 0;
+    height: 10px;
 }
 #navi {
   position: inherit;  
