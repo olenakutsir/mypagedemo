@@ -2,6 +2,7 @@
   width: 1000px;
   margin: 0 auto;
 }
+body {background-color: #b3c2bf }
 #container {
   position: relative;
   width: 1000px;
