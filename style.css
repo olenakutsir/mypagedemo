@@ -10,18 +10,17 @@ header{
   text-align: none;
   letter-spacing: 5px;
 }
-header img {
+#olena {
   position: inherit;
   width: 150px;
   left: 20%;
   top: 10px;
   z-index: 0
 }
-header h1 {
-   padding-bottom: 2%;
+#olenakutsir {
+    padding-bottom: 2%;
     font-family: broadway;
     font-size: 30px;
     font-weight: 300;
     width: 50%;
-  
 }
